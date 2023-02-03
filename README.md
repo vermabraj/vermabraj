@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Node.js, DSA**
 
-- 👨‍💻 All of my projects are available at [(https//:braj)]((https//:braj))
+- 👨‍💻 All of my projects are available at [(https://vermabraj.github.io/)]((My-portfolio))
 
-- 💬 Ask me about **Javascript,React,Redux,Typescript,Next.js**
+- 💬 Ask me about **Javascript,React,Redux,Typescript,Next.js,Node.js Express.js,MongoDB**
 
 - 📫 How to reach me **vermabraj4@gmail.com**
 
-- 📄 Know about my experiences [(drive-link)]((drive-link))
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1iRX3957aRE2asiMleyLksndLZOFJUkM0/view?usp=sharing)]((drive-link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
