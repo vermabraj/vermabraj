@@ -22,10 +22,10 @@
 
 
 
-<a href="https://linkedin.com/in/brajmohan verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brajmohan verma" height="30" width="40" /></a>
-<a href="https://codesandbox.com/vermabraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vermabraj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/brajmohan-verma-6248b1191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brajmohan verma" height="30" width="40" /></a>
+<a href="https://codesandbox.io/s/github/vermabraj/RCT-101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vermabraj" height="30" width="40" /></a>
  <a href="https://codepen.io/vermabraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vermabraj" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/braj verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="braj verma" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/@brajverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="braj verma" height="30" width="40" /></a>
 <a href="https://instagram.com/_verma_braj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_verma_braj" height="30" width="40" /></a>
  <a href="https://www.leetcode.com/vermabraj4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vermabraj4" height="30" width="40" /></a>
   <a href="https://www.hackerearth.com/vermabraj4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="vermabraj4" height="30" width="40" /></a>
