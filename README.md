@@ -35,15 +35,13 @@
 
   <h2><i>My Github Stats</i></h2>
 
-<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vermabraj&show_icons=true&bg_color=00000000" alt="shubhojeet1" /></p>
-<!--  <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermabraj&show_icons=true&locale=en&layout=compact" alt="vermabraj" /></p> -->
+<p  align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vermabraj&show_icons=true&bg_color=00000000" alt="shubhojeet1" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vermabraj&" alt="santoshy1101" />
+</p>
+ 
 
- <p align="center">
-    <a href="https://github.com/vermabrajgithub-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vermabraj streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vermabraj&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
-    </a>
-</p>  
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vermabraj&" alt="santoshy1101" /></p>
-<a href="https://github.com/vermabraj/github-readme-activity-graph"><img alt="shubhojeet1 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vermabraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermabraj&show_icons=true&locale=en&layout=compact" alt="vermabraj" width="40%"/></p>
  
  <a href="https://github.com/vermabraj/github-readme-activity-graph"><img alt="vermabraj Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vermabraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
