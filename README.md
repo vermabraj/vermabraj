@@ -28,7 +28,7 @@
   <a href="https://www.youtube.com/c/@brajverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="braj verma" height="30" width="40" /></a>
 <a href="https://instagram.com/_verma_braj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_verma_braj" height="30" width="40" /></a>
  <a href="https://www.leetcode.com/vermabraj4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vermabraj4" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/vermabraj4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="vermabraj4" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/vermabraj4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="vermabraj4" height="30" width="40" /></a>
  </p>
 
 
