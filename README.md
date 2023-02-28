@@ -34,14 +34,12 @@
 
 
   <h2><i>My Github Stats</i></h2>
-
-<p  align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vermabraj&show_icons=true&bg_color=00000000" alt="shubhojeet1" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vermabraj&" alt="santoshy1101" />
+<div display = "flex">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vermabraj&show_icons=true&locale=en" alt="vermabraj" width = "400"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vermabraj&" alt="vermabraj" width = "400" />
 </p>
- 
+  </div>
 
 
-<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermabraj&show_icons=true&locale=en&layout=compact" alt="vermabraj" width="40%"/></p>
  
- <a href="https://github.com/vermabraj/github-readme-activity-graph"><img alt="vermabraj Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vermabraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+ <a href="https://github.com/vermabraj/github-readme-activity-graph"><img alt="vermabraj Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vermabraj&bg_color=FFFFFF&color=000000&line=0066FF&point=FF9900&hide_border=true" /></a>
