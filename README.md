@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node.js, DSA**
 
-- 👨‍💻 All of my projects are available at [https://vermabraj.github.io/]((My-portfolio))
+-   <p>👨‍💻 All of my projects are available at<a href="https://vermabraj.github.io/">  My portfolio</a></p> 
 
 - 💬 Ask me about **Javascript,React,Redux,Typescript,Next.js,Node.js Express.js,MongoDB**
 
