@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brajmohan Verma</h1>
-<h3 align="center">Self-motivated, hard-working, and ambitious Full Stack Web Developer from Masai School with proficiency in javascript and React from India</h3>
+<h3 align="center">Experienced and disciplined web developer with strong technical skills, committed to creating accessible and user-friendly websites. Quick learner, clear communicator, and able to work independently. Over 1200+ hours of coding experience and solved 700+ DSA Problems.</h3>
 <img align="center" width="100%" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="developer_image" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermabraj&label=Profile%20views&color=0e75b6&style=flat" alt="vermabraj" /> </p>
