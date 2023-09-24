@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Javascript,React,Redux,Typescript,Next.js,Node.js Express.js,MongoDB**
 
-- 📫 How to reach me **vermabraj4@gmail.com**
+- 📫 How to reach me **brajverma1245@gmail.com**
 - <h2><a href="https://drive.google.com/file/d/1iRX3957aRE2asiMleyLksndLZOFJUkM0/view?usp=sharing" target="_blank">📜 Download_Resume</a></h2>
 
 
